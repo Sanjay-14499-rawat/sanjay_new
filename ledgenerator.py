@@ -23,6 +23,8 @@ print("the ori list"  + str(test_list))
 r=int("".join(str(x) for x in test_list),2)
 print(str(r))
 
+kuch bhi
+
 
 
 
