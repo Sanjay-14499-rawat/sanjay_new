@@ -1,0 +1,38 @@
+sentimental analysis
+import textblob
+
+
+chaat bot----
+
+pip install chatterbot  ____anaconda CMD
+pip install chatbot-corpus
+heroku
+
+
+start
+
+virtualenv django_test
+.\script activate
+pip freeze
+pip install django
+django-admin startproject deploy_test
+cd deploy_test
+tree
+py manage.py
+"  startapp  testapp
+" runserver
+
+
+
+
+face_recognition
+
+pip install pipenv-->pip env shell(for creating ENV)-->pip install Face_recognition
+
+
+
+download sublimetext
+
+open django folder in sublimetext
+test app-> migratiom->views
+
